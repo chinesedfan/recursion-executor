@@ -1,7 +1,7 @@
 {
   "name": "recursion-executor",
   "version": "0.1.0",
-  "description": "Execute recursive functions without stack overflow.",
+  "description": "Run recursive functions without stack overflow.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -18,5 +18,8 @@
     "stack overflow"
   ],
   "author": "Xianming Zhong",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
