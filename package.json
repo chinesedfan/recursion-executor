@@ -1,0 +1,22 @@
+{
+  "name": "recursion-executor",
+  "version": "0.1.0",
+  "description": "Execute recursive functions without stack overflow.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinesedfan/recursion-executor.git"
+  },
+  "keywords": [
+    "recursion",
+    "stack overflow"
+  ],
+  "author": "Xianming Zhong",
+  "license": "MIT"
+}
